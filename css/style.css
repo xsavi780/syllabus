@@ -81,5 +81,10 @@ footer {
   color: rgba(0,0,0,.2);
 }
 
-
+.assignment-text {
+  font-size: 12px;
+  text-transform: uppercase;
+  font-family: "rooney-sans", sans-serif;
+  padding-right: 10px;
+}
 
